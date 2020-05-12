@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee Runner.CSharp.Plugins", "Bee Runner.CSharp.Plugins.csproj", "{CE96FB1A-ADF3-4496-63D4-AA9FCD38DAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee Runner.CSharp", "Bee Runner.CSharp.csproj", "{EBE53BE3-1442-41B7-9DDB-4199EB323D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee Runner.CSharp.Editor", "Bee Runner.CSharp.Editor.csproj", "{F7171E9D-BD18-CB45-A304-2C2E83A97E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE96FB1A-ADF3-4496-63D4-AA9FCD38DAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE96FB1A-ADF3-4496-63D4-AA9FCD38DAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE96FB1A-ADF3-4496-63D4-AA9FCD38DAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE96FB1A-ADF3-4496-63D4-AA9FCD38DAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE53BE3-1442-41B7-9DDB-4199EB323D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE53BE3-1442-41B7-9DDB-4199EB323D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE53BE3-1442-41B7-9DDB-4199EB323D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE53BE3-1442-41B7-9DDB-4199EB323D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7171E9D-BD18-CB45-A304-2C2E83A97E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7171E9D-BD18-CB45-A304-2C2E83A97E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7171E9D-BD18-CB45-A304-2C2E83A97E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7171E9D-BD18-CB45-A304-2C2E83A97E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
